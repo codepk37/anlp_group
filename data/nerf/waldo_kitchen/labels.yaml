@@ -1,0 +1,90 @@
+red mug: true
+pour-over vessel: true
+olive oil: true
+vegetable oil: true
+cookbooks: true
+waldo: true
+dish soap: true
+plates: true
+sink: true
+faucet: true
+copper-bottom pot: true
+utensils: true
+knives: true
+spice rack: true
+coffee grinder: true
+flour: true
+blue hydroflask: true
+pepper mill: true
+paper towel roll: true
+scrub brush: true
+power outlet: true
+cooking tongs: true
+transparent tupperware: true
+
+#negatives
+big white crinkly flower: false
+bouquet: false
+carnation: false
+daisy: false
+eucalyptus: false
+lily: false
+rosemary: false
+small white flowers: false
+table: false
+vase: false
+flowers: false
+pink flowers: false
+jake: false
+miffy: false
+rabbit: false
+bunny: false
+old camera: false
+toy elephant: false
+twizzlers: false
+quilted pumpkin: false
+tomato: false
+tesla door handle: false
+porcelain hand: false
+rubics cube: false
+rubber duck: false
+apple: false
+ice cream cone: false
+pink ice cream: false
+toy cat statue: false
+toy chair: false
+spatula: false
+pikachu: false
+#positives
+bear: false
+sheep: false
+bear nose: false
+coffee mug: true
+spill: false
+tea in a glass: false
+cookies on a plate: false
+bag of cookies: false
+dall-e: false
+hooves: false
+coffee: true
+yellow pouf: false
+spoon handle: true
+paper napkin: false
+plate: false
+apple: false
+#positives
+wood texture: false
+red bag of food: false
+hand sanitizer bottle: false
+airpods case: false
+usb cable: false
+brown paper napkins: false
+transparent tupperware: false
+colorful coaster: false
+packing tape roll: false
+hardware clamps: false
+iphone: false
+laptop: false
+metal cooking tongs: false
+mug: false
+drinking straw: false

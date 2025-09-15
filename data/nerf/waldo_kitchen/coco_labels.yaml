@@ -1,0 +1,88 @@
+
+# COCO
+person: false
+bicycle: false
+car: false
+motorcycle: false
+airplane: false
+bus: false
+train: false
+truck: false
+boat: false
+traffic light: false
+fire hydrant: false
+street sign: false
+stop sign: false
+parking meter: false
+bench: false
+bird: false
+cat: false
+dog: false
+horse: false
+cow: false
+zebra: false
+giraffe: false
+hat: false
+backpack: false
+umbrella: false
+shoe: false
+eye glasses: false
+handbag: false
+tie: false
+suitcase: false
+frisbee: false
+skis: false
+snowboard: false
+sports ball: false
+kite: false
+baseball bat: false
+baseball glove: false
+skateboard: false
+surfboard: false
+tennis racket: false
+bottle: true
+plate: true
+wine glass: false
+cup: true
+fork: true
+knife: true
+spoon: true
+bowl: true
+banana: false
+apple: false
+sandwich: false
+orange: false
+broccoli: false
+carrot: false
+hot dog: false
+pizza: false
+donut: false
+cake: false
+chair: false
+couch: false
+potted plant: false
+bed: false
+mirror: false
+dining table: false
+window: false
+desk: false
+toilet: false
+door: false
+tv: false
+mouse: false
+remote: false
+keyboard: false
+cell phone: false
+microwave: false
+oven: false
+toaster: true
+sink: true
+refrigerator: true
+blender: false
+book: true
+clock: false
+scissors: true
+teddy bear: false
+hair drier: false
+toothbrush: false
+hair brush: false
