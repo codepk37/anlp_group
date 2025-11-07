@@ -5,3 +5,7 @@
 
 you can clone nerfstudio ; make lerf to use that path's file using
 export PYTHONPATH=/scratch/codepk37/anlpnerf/nerfstudio:$PYTHONPATH
+
+3. Ablation using all queries for all four categories on LERF and ConceptFusion:
+
+Link https://drive.google.com/drive/folders/1dNJfEBuKpFF1aQFlwDvyvn86QwUfAERY?usp=sharing
